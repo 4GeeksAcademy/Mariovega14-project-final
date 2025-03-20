@@ -32,7 +32,7 @@ Otros:
 Cloudinary
 Redux
 Instalación
-Clona el repositorio: git clone https://github.com/dserodio?tab=repositories
+Clona el repositorio: git clone
 Instala las dependencias del backend: pipenv install -r requirements.txt
 Instala las dependencias del frontend: npm install
 Configura la base de datos y las variables de entorno.
